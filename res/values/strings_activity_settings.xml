@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_server_url">Server URL</string>
+    <string name="pref_title_name">Username</string>
+    <string name="pref_default_server_url">http://cloudyanker.herokuapp.com/snippets</string>
+    <string name="pref_default_name">Billy</string>
+</resources>
